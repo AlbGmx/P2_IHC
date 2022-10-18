@@ -1,5 +1,10 @@
-
-
+/*
+   Dado un arreglo de números enteros nums y un entero target, implementar una función que regrese los indices de dos números que sumados den como resultado el target. Asumir que siempre habrá al menos una solución, y tampoco se puede repetir el mismo elemento más de una vez.
+   La respuesta se puede regresar en cualquier orden. public int[] SumaDos(int[] nums, int target) {} Ejemplo:
+   Input: nums = [2,7,11,15], target = 18
+   Output = [1, 2]
+   BONUS: Indicar la complejidad en espacio y tiempo.
+*/
 using System;
 
 internal class Program
